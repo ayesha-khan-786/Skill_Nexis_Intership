@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "category": "Frontend",
+    "excerpt": "Learn the basics of React, components, and props in this quick guide.",
+    "date": "2026-08-15"
+  },
+  {
+    "id": 2,
+    "title": "Mastering CSS Grid & Flexbox",
+    "category": "Design",
+    "excerpt": "Build responsive and flexible page layouts without relying on heavy frameworks.",
+    "date": "2026-08-20"
+  },
+  {
+    "id": 3,
+    "title": "Understanding JavaScript Closures",
+    "category": "JavaScript",
+    "excerpt": "A deep dive into scope, lexical environments, and function execution contexts.",
+    "date": "2026-08-25"
+  },
+  {
+    "id": 4,
+    "title": "Building REST APIs with Node and Express",
+    "category": "Backend",
+    "excerpt": "How to structure controllers, routes, and middleware for scalable backend services.",
+    "date": "2026-08-28"
+  },
+  {
+    "id": 5,
+    "title": "State Management with React Hooks",
+    "category": "Frontend",
+    "excerpt": "Manage application data cleanly using useState, useReducer, and useContext.",
+    "date": "2026-09-01"
+  }
+]
